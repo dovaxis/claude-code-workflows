@@ -1,0 +1,13 @@
+name: claude-code-workflows
+id: ari:cloud:compass:20aea788-4ae1-49e8-809b-e38fd6227354:component/7edea3c5-49f8-46b1-a559-b4d26d928d01/fdd4e62b-65ca-4e03-8f4f-b72c02b4dd8c
+description: The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
